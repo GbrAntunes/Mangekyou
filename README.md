@@ -7,6 +7,6 @@ Just a project to play a little with CSS and Sass in my free time.
 Made using just html and CSS, i've used Sass for compatibility purposes.
 
 ### How to use
-- git clone https://github.com/GbrAntunes/Mangekyou
+1. 'git clone https://github.com/GbrAntunes/Mangekyou'
 
-- Open index.html and it's done!
+2. 'Open index.html and it's done!'
