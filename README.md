@@ -8,6 +8,10 @@ Feito utilizando apenas HTML e CSS, usei também Sass para fins de compatibilida
 Just a project to play a little with CSS and Sass in my free time.
 Made using just html and CSS, i've used Sass for compatibility purposes.
 
+### Codepen
+Caso queira ver o resultado ao vivo, aqui está o link para o code pen:
+https://codepen.io/gbrantunes/pen/YzwEdBL
+
 ### How to use
 1. git clone https://github.com/GbrAntunes/Mangekyou
 
