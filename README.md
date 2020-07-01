@@ -12,7 +12,7 @@ Made using just html and CSS, i've used Sass for compatibility purposes.
 Caso queira ver o resultado ao vivo, aqui está o link para o code pen:
 https://codepen.io/gbrantunes/pen/YzwEdBL
 
-### How to use
+### Como usar
 1. git clone https://github.com/GbrAntunes/Mangekyou
 
 2. Open index.html and it's done!
